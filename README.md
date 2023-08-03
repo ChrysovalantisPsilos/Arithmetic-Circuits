@@ -10,8 +10,6 @@ The high-level view of the final project is captured in the diagram below. Next 
 
 # Report
 
-You can download this here
-
 ## <u> 1. Project features summary </u>
 
 In this project, the FPGA receives two operands A and B along with a command C from a python
